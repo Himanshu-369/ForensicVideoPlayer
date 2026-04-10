@@ -19,30 +19,33 @@ Designed for investigators, editors, and developers who need frame-accurate cont
 ## 📸 Media & Demos
 
 <div align="center">
+
+## 🎥 Video Demo
+![Main Interface Video](screenshots/dark.png)
+*( Demonstrating GUI Usage )*
+<br>
   
-## Main Interface
-*Showcase the dark/light theme, the timeline, and the main playback controls.*
+## Dark Mode
+![Main Interface Dark](screenshots/dark.png)
+*( The default Dark theme, the timeline, and the main playback controls )*
+
 <br>
-![Main Interface Dark](https://via.placeholder.com/800x450/232326/5849e2?text=ADD+YOUR+SCREENSHOT+HERE)
-<br>
-![Main Interface Light](https://via.placeholder.com/800x450/f8f8f9/5849e2?text=ADD+LIGHT+MODE+SCREENSHOT+HERE)
+
+## Light Mode
+![Main Interface Light](screenshots/light.png)
+*( The default light theme, the timeline, and the main playback controls )*
 
 ## Forensic Tools in Action
-*Showcase the motion detection overlay, blur detection graph, or scene change list.*
 <br>
+
 ![Motion Detection](https://via.placeholder.com/800x450/232326/4caf50?text=ADD+MOTION+DETECTION+GIF+HERE)
+* Showcase the motion detection overlay, blur detection graph, or scene change list.*
 
 ## Zoom & ROI Selection
 *Show a GIF of drawing an ROI or using the dynamic zoom slider.*
 <br>
 ![Zoom Feature](https://via.placeholder.com/800x450/232326/ff9800?text=ADD+ZOOM+DEMO+GIF+HERE)
 
-## 🎥 Video Demo
-*For video demos, it is recommended to upload an MP4 to the repo and link it, or use a YouTube embed.*
-<br>
-<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-  <img src="https://via.placeholder.com/800x450/111113/e0e0e0?text=CLICK+TO+WATCH+YOUTUBE+DEMO" alt="Video Demo" width="800"/>
-</a>
 </div>
 
 
